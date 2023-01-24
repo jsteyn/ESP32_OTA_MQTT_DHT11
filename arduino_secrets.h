@@ -1,0 +1,12 @@
+#define SECRET_SSID "raspi-webgui"
+#define SECRET_PASS "r8sp1-w3bg81"
+#define SECRET_DEVICE_KEY ""
+#define SENSOR_ID "Number_001"
+#define MICROCONTROLLER "esp32"
+
+#define MQTT_SERVER "raspi-webgui"
+#define MQTT_PORT "1883"
+#define MQTT_USERNAME "mosquitto\0"
+#define MQTT_PASSWORD "mosquitto\0"
+#define MQTT_TOPIC_PREFIX "codecommunity/"
+#define MQTT_PAYLOAD_TYPE "json"

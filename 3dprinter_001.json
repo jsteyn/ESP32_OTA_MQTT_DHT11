@@ -1,0 +1,10 @@
+{
+  "id":"3dprinter_001",
+  "sensor":"DHT11",
+  "GPIO": 4,
+  "ssid": "TALKTALK7D7AB3",
+  "key": "7YH4P3A8",
+  "mqttserver": "parrot.local",
+  "username": "jannetta",
+  "password": "f0r3v3rl1n8x"
+}
